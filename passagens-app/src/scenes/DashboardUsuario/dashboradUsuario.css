@@ -1,0 +1,15 @@
+.dashBoard{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:  url(./av.jpg) no-repeat center center fixed; 
+    height: 100vh;
+    
+    padding: 0;
+    display: flex;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
